@@ -1,0 +1,2 @@
+# IEEEVR2022-WAO
+In this research, we would like to explore and measure situated empathy regarding an international community in a foreign country through a virtual reality experiment to increase domestics' understandings and international communities' quality of life in the society. To achieve our research purposes, we designed a VR experiment with three main stages: Data Collection, Pre-experiment Questionnaire, and Post-experiment Questionnaire with a structured interview.
